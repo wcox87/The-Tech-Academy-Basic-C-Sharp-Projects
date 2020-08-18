@@ -1,0 +1,7 @@
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\Math and Comparison Operations\bin\Debug\Math and Comparison Operations.exe.config
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\Math and Comparison Operations\bin\Debug\Math and Comparison Operations.exe
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\Math and Comparison Operations\bin\Debug\Math and Comparison Operations.pdb
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\Math and Comparison Operations\obj\Debug\Math and Comparison Operations.csprojAssemblyReference.cache
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\Math and Comparison Operations\obj\Debug\Math and Comparison Operations.csproj.CoreCompileInputs.cache
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\Math and Comparison Operations\obj\Debug\Math and Comparison Operations.exe
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\Math and Comparison Operations\obj\Debug\Math and Comparison Operations.pdb
