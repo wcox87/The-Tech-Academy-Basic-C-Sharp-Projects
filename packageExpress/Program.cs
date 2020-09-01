@@ -37,6 +37,8 @@ namespace packageExpress
             if (packageWidth + packageHeight + packageLength > 50)
             {
                 Console.WriteLine("Package to big to be shipped via Package Express. Have a good day.");
+                Console.ReadLine();
+                return;
             }
 
             float shipping = (packageHeight * packageLength * packageWidth) * packageWeight / 100;

@@ -1,0 +1,6 @@
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\loopAssignment\bin\Debug\loopAssignment.exe.config
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\loopAssignment\bin\Debug\loopAssignment.exe
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\loopAssignment\bin\Debug\loopAssignment.pdb
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\loopAssignment\obj\Debug\loopAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\loopAssignment\obj\Debug\loopAssignment.exe
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\loopAssignment\obj\Debug\loopAssignment.pdb
