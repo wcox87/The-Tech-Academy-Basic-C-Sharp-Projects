@@ -15,10 +15,17 @@ namespace packageExpress
             string packageWeightString = Console.ReadLine();
             int packageWeight = Convert.ToInt32(packageWeightString);
 
+            if (packageWeight > 50)
+            {
+                Console.WriteLine("Package to big to be shipped via Package Express. Have a good day.");
+                Console.ReadLine();
+                return;
+            }
+
             Console.WriteLine("Please enter the package width (in inches): ");
             string packageWidthString = Console.ReadLine();
             int packageWidth = Convert.ToInt32(packageWidthString);
-            
+
             Console.WriteLine("Please enter the package height (in inches): ");
             string packageHeightString = Console.ReadLine();
             int packageHeight = Convert.ToInt32(packageHeightString);
@@ -27,10 +34,17 @@ namespace packageExpress
             string packageLengthString = Console.ReadLine();
             int packageLength = Convert.ToInt32(packageLengthString);
 
+            if (packageWidth + packageHeight + packageLength > 50)
+            {
+                Console.WriteLine("Package to big to be shipped via Package Express. Have a good day.");
+            }
+
             float shipping = (packageHeight * packageLength * packageWidth) * packageWeight / 100;
 
-            string result = packageWeight > 50 ? "Package to big to be shipped via Package Express." : ("Your estimated total for shipping this package is: $" + shipping);
+            string result = ("Your estimated total for shipping this package is: $" + shipping);
             Console.WriteLine(result);
+            Console.WriteLine("Thank you!");
+            
             Console.ReadLine();
         }
     }
