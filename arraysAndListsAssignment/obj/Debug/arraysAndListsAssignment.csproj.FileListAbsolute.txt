@@ -1,0 +1,7 @@
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\arraysAndListsAssignment\bin\Debug\arraysAndListsAssignment.exe.config
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\arraysAndListsAssignment\bin\Debug\arraysAndListsAssignment.exe
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\arraysAndListsAssignment\bin\Debug\arraysAndListsAssignment.pdb
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\arraysAndListsAssignment\obj\Debug\arraysAndListsAssignment.csprojAssemblyReference.cache
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\arraysAndListsAssignment\obj\Debug\arraysAndListsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\arraysAndListsAssignment\obj\Debug\arraysAndListsAssignment.exe
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\arraysAndListsAssignment\obj\Debug\arraysAndListsAssignment.pdb
