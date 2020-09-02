@@ -4,3 +4,4 @@ C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Proj
 C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\insuranceQaulification\obj\Debug\insuranceQaulification.csproj.CoreCompileInputs.cache
 C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\insuranceQaulification\obj\Debug\insuranceQaulification.exe
 C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\insuranceQaulification\obj\Debug\insuranceQaulification.pdb
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\insuranceQaulification\obj\Debug\insuranceQaulification.csprojAssemblyReference.cache

@@ -22,11 +22,10 @@ namespace insuranceQaulification
             Console.WriteLine("How many speeding tickets do you have?");
             string tickets = Console.ReadLine();
             int ticketsInt = Convert.ToInt32(tickets);
-
-            bool qualified1 = duiBool;
-            bool qualified2 = ticketsInt < 3;
-
-            bool qualifiedFinal = (ageInt > 15 ^ qualified1 && qualified2);
+                        
+            //qualified if Age is over 15 and no DUI and 3 or fewer tickets          
+            bool qualifiedFinal = (ageInt > 15) && !duiBool && (ticketsInt <=3);
+            
             Console.WriteLine("Are you eligible? " + qualifiedFinal);
             Console.ReadLine();
            
