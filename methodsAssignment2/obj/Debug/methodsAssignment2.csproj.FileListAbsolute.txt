@@ -1,0 +1,7 @@
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\methodsAssignment2\bin\Debug\methodsAssignment2.exe.config
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\methodsAssignment2\bin\Debug\methodsAssignment2.exe
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\methodsAssignment2\bin\Debug\methodsAssignment2.pdb
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\methodsAssignment2\obj\Debug\methodsAssignment2.csprojAssemblyReference.cache
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\methodsAssignment2\obj\Debug\methodsAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\methodsAssignment2\obj\Debug\methodsAssignment2.exe
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\methodsAssignment2\obj\Debug\methodsAssignment2.pdb
