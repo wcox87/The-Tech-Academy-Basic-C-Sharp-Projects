@@ -54,7 +54,7 @@ namespace methodsAssignment2
             int usernum5 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Please enter another number...");
             int usernum6 = Convert.ToInt32(Console.ReadLine());
-            int userResult5 = moc.myMethod3(number1: usernum5, number2: usernum6);
+            moc.myMethod3(number1: usernum5, number2: usernum6);
             Console.ReadLine();
         }
     }
