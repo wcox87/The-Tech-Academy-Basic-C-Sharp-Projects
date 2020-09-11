@@ -48,6 +48,14 @@ namespace methodsAssignment2
                 Console.WriteLine("The result is {0}", userResult3);
                 Console.ReadLine();
             }
+
+            myOtherClass moc = new myOtherClass();
+            Console.WriteLine("Please enter a number...");
+            int usernum5 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Please enter another number...");
+            int usernum6 = Convert.ToInt32(Console.ReadLine());
+            int userResult5 = moc.myMethod3(number1: usernum5, number2: usernum6);
+            Console.ReadLine();
         }
     }
 }

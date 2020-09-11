@@ -36,7 +36,8 @@ namespace methodsAssignment2
             return final;
         }
 
-        public int myMethod2(int num1 = 10, int num2 = 100)        {
+        public int myMethod2(int num1 = 10, int num2 = 100)     
+        {
             int result = num1 + num2;
             return result;
         }
