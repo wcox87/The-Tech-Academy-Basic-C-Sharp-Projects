@@ -35,5 +35,10 @@ namespace methodsAssignment2
             //Console.WriteLine("Result");
             return final;
         }
+
+        public int myMethod2(int num1 = 10, int num2 = 100)        {
+            int result = num1 + num2;
+            return result;
+        }
     }
 }

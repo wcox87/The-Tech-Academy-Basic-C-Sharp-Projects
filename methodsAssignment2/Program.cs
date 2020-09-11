@@ -28,6 +28,26 @@ namespace methodsAssignment2
             string userResult2 = mc.myMethod(userInput);
             Console.WriteLine("The result is " + userResult2);
             Console.ReadLine();
+
+            int userResult3;
+            Console.WriteLine("Please enter a number...");
+            int userNum3 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Please enter another number...");
+            string userNum4 = Console.ReadLine();
+            if (userNum4 == "")
+            {
+                int userResults = mc.myMethod2(userNum3);
+                Console.WriteLine("The result is {0}", userResults);
+                Console.ReadLine();
+
+            }
+            else
+            {
+                int userNum5 = Convert.ToInt32(userNum4);
+                userResult3 = mc.myMethod2(userNum3, userNum5);
+                Console.WriteLine("The result is {0}", userResult3);
+                Console.ReadLine();
+            }
         }
     }
 }
