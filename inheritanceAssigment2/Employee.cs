@@ -8,9 +8,10 @@ namespace inheritanceAssignment
 {
     public class Employee : Person
     {
-        public Employee()
+        public override void sayName()
         {
-            Id = 001;
+            Console.WriteLine("This is an example override of a virtual method. ");
+            base.sayName();
         }
         public int Id { get; set; }
     }

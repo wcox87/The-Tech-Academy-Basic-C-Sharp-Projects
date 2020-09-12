@@ -6,16 +6,10 @@ using System.Threading.Tasks;
 
 namespace inheritanceAssignment
 {
-    public class Person
+    public abstract class Person
 
     {
-        public Person()
-        {
-            firstName = "First";
-            lastName = "Last";
-        }
-
-        public void sayName()
+        public virtual void sayName()
         {
             Console.WriteLine("Name: " + firstName + " " + lastName);
             Console.ReadLine();
