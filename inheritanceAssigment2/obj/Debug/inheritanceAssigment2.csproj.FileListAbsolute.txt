@@ -1,0 +1,7 @@
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\inheritanceAssigment2\bin\Debug\inheritanceAssigment2.exe.config
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\inheritanceAssigment2\bin\Debug\inheritanceAssigment2.exe
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\inheritanceAssigment2\bin\Debug\inheritanceAssigment2.pdb
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\inheritanceAssigment2\obj\Debug\inheritanceAssigment2.csprojAssemblyReference.cache
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\inheritanceAssigment2\obj\Debug\inheritanceAssigment2.csproj.CoreCompileInputs.cache
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\inheritanceAssigment2\obj\Debug\inheritanceAssigment2.exe
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\inheritanceAssigment2\obj\Debug\inheritanceAssigment2.pdb
