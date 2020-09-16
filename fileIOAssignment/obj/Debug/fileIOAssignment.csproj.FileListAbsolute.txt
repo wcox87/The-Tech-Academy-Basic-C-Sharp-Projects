@@ -1,0 +1,6 @@
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\fileIOAssignment\bin\Debug\fileIOAssignment.exe.config
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\fileIOAssignment\bin\Debug\fileIOAssignment.exe
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\fileIOAssignment\bin\Debug\fileIOAssignment.pdb
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\fileIOAssignment\obj\Debug\fileIOAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\fileIOAssignment\obj\Debug\fileIOAssignment.exe
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\fileIOAssignment\obj\Debug\fileIOAssignment.pdb
