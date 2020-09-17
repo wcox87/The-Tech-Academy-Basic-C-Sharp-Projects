@@ -5,3 +5,6 @@ C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Proj
 C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\bin\Debug\TwentyOne.pdb
 C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\bin\Debug\Casino1.dll
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\bin\Debug\Casino1.pdb
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
