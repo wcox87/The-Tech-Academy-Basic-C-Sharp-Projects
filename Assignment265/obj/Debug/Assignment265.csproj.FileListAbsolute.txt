@@ -1,0 +1,6 @@
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment265\bin\Debug\Assignment265.exe.config
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment265\bin\Debug\Assignment265.exe
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment265\bin\Debug\Assignment265.pdb
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment265\obj\Debug\Assignment265.csproj.CoreCompileInputs.cache
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment265\obj\Debug\Assignment265.exe
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment265\obj\Debug\Assignment265.pdb
