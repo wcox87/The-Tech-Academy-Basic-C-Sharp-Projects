@@ -1,0 +1,6 @@
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment 307\bin\Debug\Assignment 307.exe.config
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment 307\bin\Debug\Assignment 307.exe
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment 307\bin\Debug\Assignment 307.pdb
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment 307\obj\Debug\Assignment 307.csproj.CoreCompileInputs.cache
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment 307\obj\Debug\Assignment 307.exe
+C:\Users\ville\OneDrive\Documents\WebProject\The-Tech-Academy-Basic-C-Sharp-Projects\Assignment 307\obj\Debug\Assignment 307.pdb
