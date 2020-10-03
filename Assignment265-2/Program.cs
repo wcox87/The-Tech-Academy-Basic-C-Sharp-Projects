@@ -30,7 +30,7 @@ namespace Assignment265_2
                 }
             }
             List<Employee> newList = employees.Where(x => x.firstName == "Joe").ToList();
-            List<Employee> newList2 = employees.Where(x => x.empID > 5).ToList();
+            List<Employee> newList2 = employees.Where(x => x.empID > 105).ToList();
 
         }
 
